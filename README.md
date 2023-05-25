@@ -1,6 +1,5 @@
 # Making Emojis More Predictable
 
-by **Karan Abrol**, **Karanjot Singh** and **Pritish Wadhwa**, Natural Language Processing (CSE546) under the guidance of **Dr. Shad Akhtar** from **Indraprastha Institute of Information Technology, Delhi**.
 
 ## Introduction
 <p align="justify">The advent of social media platforms like WhatsApp, Facebook (Meta) and Twitter, etc. has changed natural language conversations forever. Emojis are small ideograms depicting objects, people, and scenes (Cappallo et al., 2015). Emojis are used to complement short text messages with a visual enhancement and have become a de-facto standard for online communication. Our aim is to predict a single emoji that appears in the input tweets. </p>  
@@ -50,18 +49,3 @@ The data we used consists of a list of tweets associated with a single emoji, in
   Proposal, Interim Report and Final Report
 - ### Images
   Images used in reports -->
-
-## Contact
-For further queries feel free to reach out to following contributors.  
-Karan Abrol (karan19366@iiitd.ac.in)  
-Karanjot Singh (karanjot19050@iiitd.ac.in)  
-Pritish Wadhwa (pritish19440@iiitd.ac.in)
-
-## Final Report
-![Final Report 1](/Reports/Final_Report_Images/Report-1.png)  
-![Final Report 2](/Reports/Final_Report_Images/Report-2.png)  
-![Final Report 3](/Reports/Final_Report_Images/Report-3.png)  
-![Final Report 4](/Reports/Final_Report_Images/Report-4.png)  
-![Final Report 5](/Reports/Final_Report_Images/Report-5.png)  
-![Final Report 6](/Reports/Final_Report_Images/Report-6.png)  
-![Final Report 7](/Reports/Final_Report_Images/Report-7.png)
